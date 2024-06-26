@@ -1,8 +1,11 @@
 <h1 align="center">Erlang Ecosystem for Elixir devs </h1>
 <p align="center">
-  <img src="https://github.com/the-elixir-developer/nautilcal_chart/assets/17634377/e0b8fd65-8e50-442b-aab2-cba94b504b49" width="50%">
+  <img src="https://github.com/the-elixir-developer/nautilcal_chart/assets/17634377/e0b8fd65-8e50-442b-aab2-cba94b504b49" width="35%">
 </p>
 
+## List of content
+
+- [Observability](./#observability)
 
 ## Observability
 
