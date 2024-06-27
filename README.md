@@ -8,6 +8,14 @@
 - [Design patterns in Elixir](#design-patterns-in-elixir)
 - [Observability](./#observability)
 
+## Erlang & Elixir
+
+`Erlang & Elixir GOTO Conf - Graphic Recording`[^3]
+
+<p align="center">
+  <img src="https://github.com/the-elixir-developer/nautilcal_chart/assets/17634377/b862ff0c-f0ba-4354-9af3-d09c577ed446" width="60%">
+</p>
+
 ## Design Patterns in Elixir
 
 `Design patterns in Elixir - Graphic Recording`[^2]
@@ -59,4 +67,5 @@
 
 [^1]: Observability at scale, Code BEAM Europe Berlín 2023, Natalia Chechina. Drawings by @carlogilmar @visual_partner.
 [^2]: Design Patterns in Elixir, ElixirConf EU 2024, Jose Valim. Drawings by @carlogilmar @visual_partner.
+[^3]: Erlang & Elixir, GOTO Conf 2023, Francesco Cesarini & Andrea Leopardi. Drawings by @carlogilmar @visual_partner.
 
